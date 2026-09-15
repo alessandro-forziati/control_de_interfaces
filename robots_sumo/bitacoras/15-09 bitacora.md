@@ -2,26 +2,34 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
-## Integrantes:
--
--
--
+## Equipo: La banda de los Sergios
+## Nombre del Robot: Charly
+## Capitán: Forziati Alessandro
+## Subcapitán: Ayala Pilar
+## Integrantes:r
+-Forziati Alessandro
+-Ayala Pilar
+-Funes sanchez
+-Dinardo Martin 
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 15/09
 ### Integrantes presentes:
--
--
--
+-Forziati Alessandro
+-Ayala Pilar
+-Funes Sanches
+-Dinardo Martin
 
 ### Objetivos de la jornada:
--
--
--
+-Buscar caja
+-Buscar soldador, flux, destornillador, cables y estaño
+-Lista de componentes
+-Armar robot
+-Soldar
+-Investigar puente H
+-Programar motores
+-Bitacora
+-Probar motores (opcional)
 
 ### Actividades realizadas:
 -
