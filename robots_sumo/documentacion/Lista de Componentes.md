@@ -1,0 +1,16 @@
+# Lista de componentes
+- Chasis (1 Pieza)
+- Ruedas (2 Piezas)
+- Disco Codificador de Velocidad (2 Piezas)
+- Motor DC con Reductora (2 Piezas)
+- Portapilas (1 Pieza)
+- Rueda Loca (1 Pieza)
+- Tornillo M3 x 30 (6 Unidades)
+- Interruptor (1 Pieza)
+- Fastener (4 Piezas)
+- Tornillo M3 x 8 (8 Unidades)
+- Tuerca M3 (8 Piezas)
+- Separador L12 (4 Unidades)
+- Puente H (1 Pieza)
+- Cables
+-raspberry (pi pico w)
